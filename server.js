@@ -660,7 +660,7 @@ app.use(bodyParser.json());
 const pool = mysql.createPool({
   host: 'buopxq0fayjyl5i7e0cd-mysql.services.clever-cloud.com',
   user: 'u0yglthnviq9kuix', // Replace with your MySQL username
-  password: 'u0yglthnviq9kuix', // Replace with your MySQL password
+  password: 'y9FRpfFXm2ddfS3akRAA', // Replace with your MySQL password
   database: 'buopxq0fayjyl5i7e0cd',
   port: 3306,
   waitForConnections: true,
